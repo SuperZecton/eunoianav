@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341866482719",
+    "firebase_url": "https://eunoianavigator.firebaseio.com",
+    "project_id": "eunoianavigator",
+    "storage_bucket": "eunoianavigator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341866482719:android:36438237837d4757",
+        "android_client_info": {
+          "package_name": "me.superzecton.eunoianavigator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341866482719-6n7h8f58hl2optfvrskm62s73s8v4bpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGrlCX6HRDVXB_Tvvg65Gb8EV46Cbu8qA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
