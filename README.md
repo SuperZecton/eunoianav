@@ -1,8 +1,7 @@
-# eunoianavigator
+# Eunoia Navigator
 
-Eunoia App
+A navigation and productivity app for getting around Eunoia Junior College.
+Made by Jovan and Suraj of REC Club 2018.
 
-## Getting Started
+## Help
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
